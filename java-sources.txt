@@ -1,0 +1,8 @@
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/src/yy/hasmenu/HasmenuModule.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/java/yy/hasmenu/HasmenuBootstrap.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/android/support/compat/R.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/android/support/design/R.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/ti/modules/titanium/ui/R.java"
+"/Users/paulryanwork/Documents/projects/piota/HasMenu/build/generated/r/yy/hasmenu/R.java"
